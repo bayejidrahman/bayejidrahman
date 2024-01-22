@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
   
 
-- 😄 Pronouns: he
+
 - ⚡ Fun fact: iam an introvert
 
 <!---

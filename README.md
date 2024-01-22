@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bayejid Rahman
 - 👀 I’m interested in Explore New  Operating System
 - 🌱 I’m currently learning HTML
-- 
+  
 
 - 😄 Pronouns: he
 - ⚡ Fun fact: iam an introvert

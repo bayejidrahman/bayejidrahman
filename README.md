@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bayejidrahman
-- 👀 I’m interested in Operating System
+- 👋 Hi, I’m Bayejid Rahman
+- 👀 I’m interested in Explore New  Operating System
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: iam an introvert
 
 <!---
 bayejidrahman/bayejidrahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

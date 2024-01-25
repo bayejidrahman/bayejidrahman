@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Bayejid Rahman
-- 👀 I’m interested in Explore New  Operating System
-- 🌱 I’m currently learning HTML
-  
 
+# Bayejid Rahman
 
-- ⚡ Fun fact: iam an introvert
+## About Me
+Hello, I'm Bayejid Rahman, a 16-year-old technology enthusiast from Khulna, Bangladesh. I am passionate about exploring new and updated operating systems, including various Linux distributions and modified operating systems. I am currently learning HTML and CSS with the goal of becoming a professional programmer.
 
-<!---
-bayejidrahman/bayejidrahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- HTML
+- CSS
+- Operating Systems
+
+## Current Projects
+- Learning and mastering web development languages (HTML & CSS)
+- Exploring and understanding different operating systems
+
+## Contact Me
+Feel free to reach out to me on GitHub.
+
